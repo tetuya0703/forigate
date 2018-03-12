@@ -1,0 +1,1 @@
+# FortiGateのconfigを取得するplaybook

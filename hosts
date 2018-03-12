@@ -1,0 +1,7 @@
+[forti]
+192.168.215.200  # 今回は1台だけ
+
+[forti:vars]
+ansible_user=admin
+ansible_password=*******
+ansible_python_interpreter=/Users/tetuya/.pyenv/shims/python
